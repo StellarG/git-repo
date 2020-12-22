@@ -6,7 +6,7 @@ body{
 }
 
 .list-item{
-    list-style: none;
+    list-style: decimal;
     margin-top: 5px;
     margin-bottom: 5px;
 }
